@@ -1,2 +1,3 @@
-import { map } from 'rxjs/operators';
+import { map } from "rxjs/operators";
 
+console.log(map);

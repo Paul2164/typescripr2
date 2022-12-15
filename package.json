@@ -20,6 +20,8 @@
   "homepage": "https://github.com/Paul2164/typescripr2#readme",
   "dependencies": {
     "@reactivex/rxjs": "^6.6.7",
+    "rxjs": "^7.6.0",
+    "rxjs-compat": "^6.6.7",
     "webpack": "^5.75.0"
   },
   "devDependencies": {
