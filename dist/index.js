@@ -1,4 +1,6 @@
-"use strict";
+import { map } from 'rxjs/operators';
+console.log(map);
+alert('Hello');
 let id = 15;
 let company = 'Lifestyle industrial';
 let isPublished = true;
